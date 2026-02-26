@@ -11,7 +11,7 @@ int main() {
     cout<<"the value of k is:"<<k<<endl;
     // we cant change the value of k because it is a constant variable
     // if we put  k=45 or anything then it will give us an error because w ecant change the vale of a constant k .
-    int h =88;
-    cout<<"the value of h is:"<<h<<endl;
-    return 0 ;
+    // int h =88;
+    // cout<<"the value of h is:"<<h<<endl;
+     return 0 ;
 }
